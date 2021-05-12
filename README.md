@@ -46,6 +46,15 @@ Quit the server with CTRL-BREAK.
  ### ¡Y podremos ver nuestra página web!
 
 
+<h3> Integrantes Scrum: </h3>
+-Dantiza Morán (Scrum Master)<br />
+-María Ponte(Product Owner)<br />
+#Development team:<br />
+-Raúl Espinoza<br />
+-Sebastián González<br />
+-Sebastián Saravia<br />
+-Isidora Gómez <br />
+-Valentina González<br />
 
-
-
+<h3> Licencia: </h3>
+Distribuido con MIT License.
