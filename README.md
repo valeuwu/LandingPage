@@ -31,9 +31,9 @@ Pasos:<br />
 -Abrimos nuestra consola del sistema en la posición de la carpeta
 -Escribimos -> virtualenv env (De esta forma creamos nuestro entorno virtual)<br />
 -Dentro de esta carpeta incluiremos nuestra carpeta de archivos de la página web
--Iniciamos nuestro entorno virtual de la siguiente forma en la consola (C:\Users\[tu_nombre_de_usuario]\Escritorio\[carpeta_en_donde_se_ecuentra_el_entorno]\env\Scripts\activate.bat)
+-Iniciamos nuestro entorno virtual de la siguiente forma en la consola (C:\Users\[tu_nombre_de_usuario]\Escritorio\[carpeta_en_donde_se_ecuentra_el_entorno]\env\Scripts\activate.bat)<br />
 -Y luego escribimos el siguiente comando -> python manage.py runserver<br />
-Nos mostrará un mensaje así:
+Nos mostrará un mensaje así:<br />
  ```
  System check identified no issues (0 silenced).
 May 11, 2021 - 21:54:00
