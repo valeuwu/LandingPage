@@ -39,7 +39,7 @@ Nos mostrará un mensaje así:<br />
 May 11, 2021 - 21:54:00
 Django version 3.2.2, using settings 'tarea1.settings'
 Starting development server at http://127.0.0.1:8000/
-Quit the server with CTRL-BREAK.```
+Quit the server with CTRL-BREAK.
 
 
 
