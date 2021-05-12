@@ -28,7 +28,7 @@ Para utilizar nuestra página web requiere la instalación de:<br />
 Pasos:<br />
 1-. Abrir la consola del sistema<br />
 2-. Crear una carpeta en donde crearemos un entorno virtual (en caso de no tener un entorno instalado lo pueden instalar con el siguiente comando en la consola-> pip install virtualenv)<br />
-3-. Abrimos nuestra consola del sistema en la posición de la carpeta
+3-. Abrimos nuestra consola del sistema en la posición de la carpeta<br />
 4-. Escribimos -> virtualenv env (De esta forma creamos nuestro entorno virtual)<br />
 5-. Dentro de esta carpeta incluiremos nuestra carpeta de archivos de la página web<br />
 6-. Iniciamos nuestro entorno virtual de la siguiente forma en la consola (C:\Users\[tu_nombre_de_usuario]\Escritorio\[carpeta_en_donde_se_ecuentra_el_entorno]\env\Scripts\activate.bat)<br />
