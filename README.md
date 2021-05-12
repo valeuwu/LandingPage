@@ -1,7 +1,7 @@
 # LandingPage
 Nuestra landing page de Tarea 1
 <h1> Adoptanimal </h1>
-<h3> ADOPTANIMAL</h3> es un proyecto que permite
+Es un proyecto que permite
 adoptar mascotas sin hogar de la manera más
 fácil y sencilla mediante una aplicación móvil.
 
@@ -13,3 +13,17 @@ disposición para escoger un compañero ideal
 según lo que busquen, facilitando de esta forma
 que todas nuestras mascotas tengan más
 oportunidades de ser adoptados. 
+
+<h3> Construido con: </h3>
+-Python
+-Bootstrap
+
+<h3> Requisitos: </h3>
+Para utilizar nuestra página web requiere la instalación de:
+-instalación de django (pip install django)
+-instalación de bootstrap (pip install django-bootstrap4)
+-Descargar nuestra carpeta de archivos
+
+<h3> Como lanzar la página web </h3>
+Pasos:
+-
