@@ -15,7 +15,7 @@ que todas nuestras mascotas tengan más
 oportunidades de ser adoptados. 
 
 <h3> Construido con: </h3>
--Python </>
+-Python <br />
 -Bootstrap
 
 <h3> Requisitos: </h3>
