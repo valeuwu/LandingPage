@@ -34,13 +34,14 @@ Pasos:<br />
 -Iniciamos nuestro entorno virtual de la siguiente forma en la consola (C:\Users\[tu_nombre_de_usuario]\Escritorio\[carpeta_en_donde_se_ecuentra_el_entorno]\env\Scripts\activate.bat)<br />
 -Y luego escribimos el siguiente comando -> python manage.py runserver<br />
 Nos mostrará un mensaje así:<br />
- ```
- System check identified no issues (0 silenced).
+
+ [System check identified no issues (0 silenced).
 May 11, 2021 - 21:54:00
 Django version 3.2.2, using settings 'tarea1.settings'
 Starting development server at http://127.0.0.1:8000/
 Quit the server with CTRL-BREAK.
-```
+]
+
 
 
 
