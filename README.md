@@ -1,7 +1,7 @@
 # LandingPage
 Nuestra landing page de Tarea 1
 <h1> Adoptanimal </h1>
-<h2> ADOPTANIMAL es un proyecto que permite
+<h3> ADOPTANIMAL</h3> es un proyecto que permite
 adoptar mascotas sin hogar de la manera más
 fácil y sencilla mediante una aplicación móvil.
 
@@ -12,4 +12,4 @@ compañero tendrán toda la información a su
 disposición para escoger un compañero ideal
 según lo que busquen, facilitando de esta forma
 que todas nuestras mascotas tengan más
-oportunidades de ser adoptados. <h2>
+oportunidades de ser adoptados. 
