@@ -49,7 +49,7 @@ Quit the server with CTRL-BREAK.
 <h3> Integrantes Scrum: </h3>
 -Dantiza Morán (Scrum Master)<br />
 -María Ponte(Product Owner)<br />
-#Development team:<br />
+#Development team:
 -Raúl Espinoza<br />
 -Sebastián González<br />
 -Sebastián Saravia<br />
